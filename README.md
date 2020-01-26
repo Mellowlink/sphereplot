@@ -1,1 +1,1 @@
-sphereplot
+A simple rough script plotting coordinates on a sphere
